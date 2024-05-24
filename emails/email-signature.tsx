@@ -22,6 +22,12 @@ interface EmailSignatureProps {
   imageUrl: string;
 }
 
+const name = "Jonathan Meisner"
+const email = "Jonathan@DrillBlast.com"
+const phone = "704.441.3954"
+const website = "caldwelldrillingandblasting.com"
+
+
 export const EmailSignature = ({
   name,
   email,
@@ -98,11 +104,13 @@ export const EmailSignature = ({
         >
           <Row align="left" className="font-sans text-text max-w-[370px]">
             <Column valign="top" className="w-[100px]">
-              <Img
-                width="100"
-                src="/static/vertical-light-bg.png"
-                alt="Caldwell Logo"
-              />
+              <Link href="http://caldwelldrillingandblasting.com">
+                <Img
+                  width="100"
+                  src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg.png?raw=true"
+                  alt="Caldwell Logo"
+                />
+              </Link>
             </Column>
             <Column>
               <div className="w-2"></div>
