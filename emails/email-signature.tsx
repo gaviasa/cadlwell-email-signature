@@ -13,28 +13,12 @@ import {
   Tailwind,
 } from "@react-email/components";
 import * as React from "react";
-
-interface EmailSignatureProps {
-  name: string;
-  email: string;
-  phone: string;
-  website: string;
-  imageUrl: string;
-}
-
-const name = "Jonathan Meisner"
-const email = "Jonathan@DrillBlast.com"
-const phone = "704.441.3954"
-const website = "caldwelldrillingandblasting.com"
+import { FirstVersion } from "./versions/First";
+import { SecondVersion } from "./versions/Second";
+import { ThirdVersion } from "./versions/Third";
 
 
-export const EmailSignature = ({
-  name,
-  email,
-  phone,
-  website,
-  imageUrl,
-}: EmailSignatureProps) => (
+export const EmailSignature = () => (
   <Html>
     <Head />
     <Body>
@@ -102,81 +86,16 @@ export const EmailSignature = ({
             },
           }}
         >
-          <Row align="left" className="font-sans text-text max-w-[370px]">
-            <Column valign="top" className="w-[100px]">
-              <Link href="http://caldwelldrillingandblasting.com">
-                <Img
-                  width="100"
-                  src="https://raw.githubusercontent.com/gaviasa/cadlwell-email-signature/main/emails/static/vertical-light-bg.png"
-                  alt="Caldwell Logo"
-                />
-              </Link>
-            </Column>
-            <Column>
-              <div className="w-2"></div>
-            </Column>
-            <Column>
-              <Row className="mb-2 font-sans text-sm">
-                <Column>
-                  <span className="text-brand">
-                    <strong>Jonathan Meisner</strong>
-                  </span>{" "}
-                  | Owner
-                </Column>
-              </Row>
 
-              <Row className="mb-px font-sans text-sm">
-                <Column className="w-[25px]">
-                  {/* <span className="text-xs">
-                    <strong>TEL</strong>
-                  </span> */}
-                  <Img src="https://raw.githubusercontent.com/gaviasa/cadlwell-email-signature/main/emails/static/phone-fill.png" width="16" alt="Phone" />
-                </Column>
-                <Column>
-                  :{" "}
-                  <Link className="text-brand" href="tel:704.441.3954">
-                    704.441.3954
-                  </Link>
-                </Column>
-              </Row>
-
-              <Row className="mb-px font-sans text-sm">
-                <Column className="w-[25px]">
-                  {/* <span className="text-xs">
-                    <strong>MAIL</strong>
-                  </span> */}
-                  <Img src="https://raw.githubusercontent.com/gaviasa/cadlwell-email-signature/main/emails/static/envelope-fill.png" width="16" alt="Email" />
-                </Column>
-                <Column>
-                  :{" "}
-                  <Link
-                    className="text-brand"
-                    href="mailto:Jonathan@DrillBlast.com"
-                  >
-                    Jonathan@DrillBlast.com
-                  </Link>
-                </Column>
-              </Row>
-
-              <Row className="mb-px font-sans text-sm">
-                <Column className="w-[25px]">
-                  {/* <span className="text-xs">
-                    <strong>SITE</strong>
-                  </span> */}
-                  <Img src="https://raw.githubusercontent.com/gaviasa/cadlwell-email-signature/main/emails/static/globe-fill.png" width="16" alt="Website" />
-                </Column>
-                <Column>
-                  :{" "}
-                  <Link
-                    className="text-brand"
-                    href="http://caldwelldrillingandblasting.com/"
-                  >
-                    caldwelldrillingandblasting.com
-                  </Link>
-                </Column>
-              </Row>
-            </Column>
+          <FirstVersion />
+          <Row>
+            <Column><div className="h-8"></div></Column>
           </Row>
+          <SecondVersion/>
+          <Row>
+            <Column><div className="h-8"></div></Column>
+          </Row>
+          <ThirdVersion/>
         </Tailwind>
       </Container>
     </Body>
