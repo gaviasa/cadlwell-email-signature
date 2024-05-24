@@ -107,7 +107,7 @@ export const EmailSignature = ({
               <Link href="http://caldwelldrillingandblasting.com">
                 <Img
                   width="100"
-                  src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg.png?raw=true"
+                  src="https://raw.githubusercontent.com/gaviasa/cadlwell-email-signature/main/emails/static/vertical-light-bg.png"
                   alt="Caldwell Logo"
                 />
               </Link>
@@ -126,10 +126,11 @@ export const EmailSignature = ({
               </Row>
 
               <Row className="mb-px font-sans text-sm">
-                <Column className="w-[50px]">
-                  <span className="text-xs">
+                <Column className="w-[25px]">
+                  {/* <span className="text-xs">
                     <strong>TEL</strong>
-                  </span>
+                  </span> */}
+                  <Img src="https://raw.githubusercontent.com/gaviasa/cadlwell-email-signature/main/emails/static/phone-fill.png" width="16" alt="Phone" />
                 </Column>
                 <Column>
                   :{" "}
@@ -140,10 +141,11 @@ export const EmailSignature = ({
               </Row>
 
               <Row className="mb-px font-sans text-sm">
-                <Column className="w-[50px]">
-                  <span className="text-xs">
+                <Column className="w-[25px]">
+                  {/* <span className="text-xs">
                     <strong>MAIL</strong>
-                  </span>
+                  </span> */}
+                  <Img src="https://raw.githubusercontent.com/gaviasa/cadlwell-email-signature/main/emails/static/envelope-fill.png" width="16" alt="Email" />
                 </Column>
                 <Column>
                   :{" "}
@@ -157,10 +159,11 @@ export const EmailSignature = ({
               </Row>
 
               <Row className="mb-px font-sans text-sm">
-                <Column className="w-[50px]">
-                  <span className="text-xs">
+                <Column className="w-[25px]">
+                  {/* <span className="text-xs">
                     <strong>SITE</strong>
-                  </span>
+                  </span> */}
+                  <Img src="https://raw.githubusercontent.com/gaviasa/cadlwell-email-signature/main/emails/static/globe-fill.png" width="16" alt="Website" />
                 </Column>
                 <Column>
                   :{" "}
