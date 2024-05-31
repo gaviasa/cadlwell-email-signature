@@ -19,7 +19,7 @@ export const V1_1 = () => (
     <Column className="w-[135px]">
       <Link href="http://caldwelldrillingandblasting.com">
         <Img
-          src="/static/vertical-light-bg.png"
+          src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg.png?raw=true"
           alt="Caldwell Logo"
         />
       </Link>
@@ -45,7 +45,7 @@ export const V1_1 = () => (
         <Column valign="top" className="w-[20px]">
           <Img
             className="mt-[2.5px]"
-            src="/static/phone-fill-red.png"
+            src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/phone-fill-red.png?raw=true"
             width="16"
             alt="Phone"
           />
@@ -64,7 +64,7 @@ export const V1_1 = () => (
         <Column valign="top" className="w-[20px]">
           <Img
             className="mt-[2.5px]"
-            src="/static/envelope-fill-red.png"
+            src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/envelope-fill-red.png?raw=true"
             width="16"
             alt="Email"
           />
@@ -86,7 +86,7 @@ export const V1_1 = () => (
         <Column valign="top" className="w-[20px]">
           <Img
             className="mt-[2.5px]"
-            src="/static/globe-fill-red.png"
+            src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/globe-fill-red.png?raw=true"
             width="16"
             alt="Website"
           />
