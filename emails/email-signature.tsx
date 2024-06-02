@@ -14,7 +14,7 @@ import {
 } from "@react-email/components";
 import * as React from "react";
 import { FirstVersion } from "./versions/First";
-import { V1_1 } from "./versions/V1_1";
+import { V1_2 } from "./versions/V1_2";
 
 
 export const EmailSignature = () => (
@@ -86,12 +86,7 @@ export const EmailSignature = () => (
           }}
         >
 
-          <V1_1 />
-
-          <Row>
-            <Column><div className="h-8"></div></Column>
-          </Row>
-
+          <V1_2 />
 
         </Tailwind>
       </Container>
