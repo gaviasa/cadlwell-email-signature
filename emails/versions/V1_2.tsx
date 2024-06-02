@@ -19,6 +19,7 @@ export const V1_2 = () => (
     <Column className="w-[135px]">
       <Link href="http://caldwelldrillingandblasting.com">
         <Img
+        className="w-[135px] h-[118.8px] object-contain"
           src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg.png?raw=true"
           alt="Caldwell Logo"
         />
