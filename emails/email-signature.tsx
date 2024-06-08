@@ -15,7 +15,7 @@ import {
 import * as React from "react";
 import { FirstVersion } from "./versions/First";
 import { V1_2 } from "./versions/V1_2";
-
+import { V1_3 } from "./versions/V1_3";
 
 export const EmailSignature = () => (
   <Html>
@@ -85,9 +85,9 @@ export const EmailSignature = () => (
             },
           }}
         >
-
           <V1_2 />
-
+          <Hr className="h-8 w-full border-none"/>
+          <V1_3 />
         </Tailwind>
       </Container>
     </Body>

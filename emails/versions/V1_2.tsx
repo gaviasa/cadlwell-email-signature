@@ -15,9 +15,9 @@ import {
 import * as React from "react";
 
 export const V1_2 = () => (
-  <Row align="left" className="font-sans text-text">
-    <Column className="w-[135px]">
-      <Link href="http://caldwelldrillingandblasting.com">
+  <Row align="left" className="border-collapse font-sans text-text">
+    <Column valign="top" className="w-[135px] h-[118.8px]">
+      <Link className="no-underline" href="http://caldwelldrillingandblasting.com">
         <Img
         className="w-[135px] h-[118.8px] object-contain"
           src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg.png?raw=true"
@@ -25,57 +25,57 @@ export const V1_2 = () => (
         />
       </Link>
     </Column>
-    <Column valign="top" className="w-[7px]">
-      <div className="w-px bg-brand h-[132px] mr-[6px]"></div>
+    <Column valign="top" className="w-[7px] h-[118.8px]">
+      <div className="w-px bg-brand h-[118.8px] ml-[6px] mr-[6px]"></div>
     </Column>
     <Column>
-      <Row className="mb-3 font-sans text-text text-[16px]">
+      <Row align="left" className="border-collapse mb-[8px] font-sans text-text text-left">
         <Column>
-          <Row className="mb-1">
+          <Row align="left" className="border-collapse text-[15px]">
             <Column>
               <span className="text-brand"><strong>Jonathan Meisner</strong></span>
             </Column>
           </Row>
-          <Row className="text-[13px]">
+          <Row align="left" className="border-collapse text-[12px]">
             <Column><strong>Caldwell Drilling and Blasting</strong> | Owner</Column>
           </Row>
         </Column>
       </Row>
 
-      <Row className="mb-px font-sans text-sm">
-        <Column valign="top" className="w-[16px]">
+      <Row align="left" className="border-collapse font-sans text-left">
+        <Column valign="top" className="w-[15px]">
           <Img
-            className="mt-[2.5px]"
+            className="mt-[5px]"
             src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/phone-fill-red.png?raw=true"
-            width="16"
+            width="15"
             alt="Phone"
           />
         </Column>
         <Column valign="top" className="w-[4px]">
           <span className="mx-0.5">:</span>
         </Column>
-        <Column valign="top">
-          <Link className="text-text text-[13px]" href="tel:704.441.3954">
+        <Column>
+          <Link className="text-text text-[12px] no-underline" href="tel:704.441.3954">
             704.441.3954
           </Link>
         </Column>
       </Row>
 
-      <Row className="mb-px font-sans text-sm">
-        <Column valign="top" className="w-[16px]">
+      <Row align="left" className="border-collapse font-sans text-left">
+        <Column valign="top" className="w-[15px]">
           <Img
-            className="mt-[2.5px]"
+            className="mt-[5px]"
             src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/envelope-fill-red.png?raw=true"
-            width="16"
+            width="15"
             alt="Email"
           />
         </Column>
         <Column valign="top" className="w-[4px]">
           <span className="mx-0.5">:</span>
         </Column>
-        <Column valign="top">
+        <Column>
           <Link
-            className="text-text break-words text-[13px]"
+            className="text-text break-words text-[12px] no-underline"
             href="mailto:Jonathan@DrillBlast.com"
           >
             Jonathan@DrillBlast.com
@@ -83,24 +83,24 @@ export const V1_2 = () => (
         </Column>
       </Row>
 
-      <Row className="mb-px font-sans text-sm">
-        <Column valign="top" className="w-[16px]">
+      <Row align="left" className="border-collapse font-sans text-left">
+        <Column valign="top" className="w-[15px]">
           <Img
-            className="mt-[2.5px]"
+            className="mt-[5px]"
             src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/globe-fill-red.png?raw=true"
-            width="16"
+            width="15"
             alt="Website"
           />
         </Column>
         <Column valign="top" className="w-[4px]">
           <span className="mx-0.5">:</span>
         </Column>
-        <Column valign="top" className=" break-all">
+        <Column className="break-all">
           <Link
-            className="text-text text-[13px]"
+            className="text-text text-[12px] no-underline"
             href="http://www.CaldwellDrillingAndBlasting.com/"
           >
-            www.caldwelldrillingandblasting.com
+            www.CaldwellDrillingAndBlasting.com
           </Link>
         </Column>
       </Row>
