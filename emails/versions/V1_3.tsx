@@ -1,61 +1,110 @@
-<table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;font-family:ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;color:rgb(26,26,26)">
-              <tbody style="width:100%">
-                <tr style="width:100%">
-                  <td valign="top" data-id="__react-email-column" style="width:120px;height:105.6px"><a href="http://caldwelldrillingandblasting.com" style="color:#067df7;text-decoration:none;text-decoration-line:none" target="_blank"><img class="[120px]" alt="Caldwell Logo" src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg.png?raw=true" style="display:block;outline:none;border:none;text-decoration:none;height:105.6px;object-fit:contain"></a></td>
-                  <td valign="top" data-id="__react-email-column" style="width:7px;height:105.6px">
-                    <div style="width:1px;background-color:rgb(217,20,20);height:105.6px;margin-left:6px;margin-right:6px"></div>
-                  </td>
-                  <td data-id="__react-email-column">
-                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;margin-bottom:8px;font-family:ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;color:rgb(26,26,26);text-align:left">
-                      <tbody style="width:100%">
-                        <tr style="width:100%">
-                          <td data-id="__react-email-column">
-                            <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;font-size:15px">
-                              <tbody style="width:100%">
-                                <tr style="width:100%">
-                                  <td data-id="__react-email-column"><span style="color:rgb(217,20,20)"><strong>Jonathan Meisner</strong></span></td>
-                                </tr>
-                              </tbody>
-                            </table>
-                            <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;font-size:12px">
-                              <tbody style="width:100%">
-                                <tr style="width:100%">
-                                  <td data-id="__react-email-column"><strong>Caldwell Drilling and Blasting</strong> | Owner</td>
-                                </tr>
-                              </tbody>
-                            </table>
-                          </td>
-                        </tr>
-                      </tbody>
-                    </table>
-                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;font-family:ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;text-align:left">
-                      <tbody style="width:100%">
-                        <tr style="width:100%">
-                          <td valign="top" data-id="__react-email-column" style="width:15px"><img alt="Phone" src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/phone-fill-red.png?raw=true" style="display:block;outline:none;border:none;text-decoration:none;margin-top:3.5px" width="15"></td>
-                          <td valign="top" data-id="__react-email-column" style="width:4px"><span style="margin-left:2px;margin-right:2px">:</span></td>
-                          <td data-id="__react-email-column"><a href="tel:704.441.3954" style="color:rgb(26,26,26);text-decoration:none;font-size:12px;text-decoration-line:none" target="_blank">704.441.3954</a></td>
-                        </tr>
-                      </tbody>
-                    </table>
-                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;font-family:ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;text-align:left">
-                      <tbody style="width:100%">
-                        <tr style="width:100%">
-                          <td valign="top" data-id="__react-email-column" style="width:15px"><img alt="Email" src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/envelope-fill-red.png?raw=true" style="display:block;outline:none;border:none;text-decoration:none;margin-top:3.5px" width="15"></td>
-                          <td valign="top" data-id="__react-email-column" style="width:4px"><span style="margin-left:2px;margin-right:2px">:</span></td>
-                          <td data-id="__react-email-column"><a href="mailto:Jonathan@DrillBlast.com" style="color:rgb(26,26,26);text-decoration:none;overflow-wrap:break-word;font-size:12px;text-decoration-line:none" target="_blank">Jonathan@DrillBlast.com</a></td>
-                        </tr>
-                      </tbody>
-                    </table>
-                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;font-family:ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;;text-align:left">
-                      <tbody style="width:100%">
-                        <tr style="width:100%">
-                          <td valign="top" data-id="__react-email-column" style="width:15px"><img alt="Website" src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/globe-fill-red.png?raw=true" style="display:block;outline:none;border:none;text-decoration:none;margin-top:3.5px" width="15"></td>
-                          <td valign="top" data-id="__react-email-column" style="width:4px"><span style="margin-left:2px;margin-right:2px">:</span></td>
-                          <td data-id="__react-email-column" style="word-break:break-all"><a href="http://www.CaldwellDrillingAndBlasting.com/" style="color:rgb(26,26,26);text-decoration:none;font-size:12px;text-decoration-line:none" target="_blank">www.CaldwellDrillingAndBlasting.com</a></td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
+import {
+    Html,
+    Head,
+    Body,
+    Container,
+    Text,
+    Link,
+    Img,
+    Heading,
+    Hr,
+    Row,
+    Column,
+    Tailwind,
+  } from "@react-email/components";
+  import * as React from "react";
+  
+  export const V1_3 = () => (
+    <Row align="left" className="border-collapse font-sans text-text">
+      <Column valign="top" className="w-[120px] h-[105.6px]">
+        <Link className="no-underline" href="http://caldwelldrillingandblasting.com">
+          <Img
+          className="[120px] h-[105.6px] object-contain"
+            src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg-all-red.png?raw=true"
+            alt="Caldwell Logo"
+          />
+        </Link>
+      </Column>
+      <Column valign="top" className="w-[7px] h-[105.6px]">
+        <div className="w-px bg-brand h-[105.6px] ml-[6px] mr-[6px]"></div>
+      </Column>
+      <Column>
+        <Row align="left" className="border-collapse mb-[8px] font-sans text-text text-left">
+          <Column>
+            <Row align="left" className="border-collapse text-[15px]">
+              <Column>
+                <span className="text-brand"><strong>Jonathan Meisner</strong></span>
+              </Column>
+            </Row>
+            <Row align="left" className="border-collapse text-[12px]">
+              <Column><strong>Caldwell Drilling and Blasting</strong> | Owner</Column>
+            </Row>
+          </Column>
+        </Row>
+  
+        <Row align="left" className="border-collapse font-sans text-left">
+          <Column valign="top" className="w-[15px]">
+            <Img
+              className="mt-[3.5px]"
+              src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/phone-fill-red.png?raw=true"
+              width="15"
+              alt="Phone"
+            />
+          </Column>
+          <Column valign="top" className="w-[4px]">
+            <span className="mx-0.5">:</span>
+          </Column>
+          <Column>
+            <Link className="text-text text-[12px] no-underline" href="tel:704.441.3954">
+              704.441.3954
+            </Link>
+          </Column>
+        </Row>
+  
+        <Row align="left" className="border-collapse font-sans text-left">
+          <Column valign="top" className="w-[15px]">
+            <Img
+              className="mt-[3.5px]"
+              src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/envelope-fill-red.png?raw=true"
+              width="15"
+              alt="Email"
+            />
+          </Column>
+          <Column valign="top" className="w-[4px]">
+            <span className="mx-0.5">:</span>
+          </Column>
+          <Column>
+            <Link
+              className="text-text break-words text-[12px] no-underline"
+              href="mailto:Jonathan@DrillBlast.com"
+            >
+              Jonathan@DrillBlast.com
+            </Link>
+          </Column>
+        </Row>
+  
+        <Row align="left" className="border-collapse font-sans text-left">
+          <Column valign="top" className="w-[15px]">
+            <Img
+              className="mt-[3.5px]"
+              src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/globe-fill-red.png?raw=true"
+              width="15"
+              alt="Website"
+            />
+          </Column>
+          <Column valign="top" className="w-[4px]">
+            <span className="mx-0.5">:</span>
+          </Column>
+          <Column className="break-all">
+            <Link
+              className="text-text text-[12px] no-underline"
+              href="http://www.CaldwellDrillingAndBlasting.com/"
+            >
+              www.CaldwellDrillingAndBlasting.com
+            </Link>
+          </Column>
+        </Row>
+      </Column>
+    </Row>
+  );
+  

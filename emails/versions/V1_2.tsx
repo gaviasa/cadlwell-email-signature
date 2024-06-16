@@ -20,7 +20,7 @@ export const V1_2 = () => (
       <Link className="no-underline" href="http://caldwelldrillingandblasting.com">
         <Img
         className="w-[135px] h-[118.8px] object-contain"
-          src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg.png?raw=true"
+          src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg-all-red.png?raw=true"
           alt="Caldwell Logo"
         />
       </Link>
