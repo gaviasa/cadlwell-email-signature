@@ -20,7 +20,7 @@ import {
         <Link className="no-underline" href="http://caldwelldrillingandblasting.com">
           <Img
           className="[120px] h-[105.6px] object-contain"
-            src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/vertical-light-bg-all-red.png?raw=true"
+            src="https://github.com/gaviasa/cadlwell-email-signature/blob/main/emails/static/Vertical%20light%20BG.png?raw=true"
             alt="Caldwell Logo"
           />
         </Link>
